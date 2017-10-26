@@ -2,10 +2,10 @@
 <html>
 <head>
 <title>Craftsman</title>
-<link rel = "stylesheet" >
+<link rel = "stylesheet" href = "css/style.css" >
 </head>
 <body class = "container">
-
+ 
 @yield('content')
 
 </body>
